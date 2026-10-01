@@ -1,0 +1,14 @@
+p{
+    color: blue;
+}
+.buchi
+{
+    border-style: solid;
+    border-color: red;
+    border-width: 20px;
+
+    width: 50%;
+    text-align: justify;
+    padding: 100px;
+    margin: 10px;
+}
